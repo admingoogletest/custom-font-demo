@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'StraySpecial';
+  src: url('Stray%20done%20with%20special%20characters%20and%20everything!.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'StraySpecial', sans-serif;
+  font-size: 2rem;
+  padding: 2rem;
+}
